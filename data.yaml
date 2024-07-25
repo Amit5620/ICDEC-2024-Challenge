@@ -1,0 +1,6 @@
+
+train: /kaggle/input/vehicle-data/vehicle-dataset/images/train
+val: /kaggle/input/vehicle-data/vehicle-dataset/images/val  
+
+nc: 15
+names: ['car', 'bike', 'auto', 'rickshaw', 'cycle', 'bus', 'minitruck', 'truck', 'van', 'taxi', 'motorvan', 'toto', 'train', 'boat', 'other']
